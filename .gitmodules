@@ -1,0 +1,8 @@
+[submodule "aim-timer-android"]
+	path = aim-timer-android
+	url = git@github.com:baifachuan/aim-timer-android.git
+	branch = master
+[submodule "aim-timer-ios"]
+	path = aim-timer-ios
+	url = git@github.com:baifachuan/aim-timer-ios.git
+	branch = master
