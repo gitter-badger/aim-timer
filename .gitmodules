@@ -6,3 +6,12 @@
 	path = aim-timer-ios
 	url = git@github.com:baifachuan/aim-timer-ios.git
 	branch = master
+[submodule "aim-timer-backend"]
+	path = aim-timer-backend
+	url = git@github.com:baifachuan/aim-timer-backend.git
+[submodule "aim-timer-wp"]
+	path = aim-timer-wp
+	url = git@github.com:baifachuan/aim-timer-wp.git
+[submodule "aim-timer-web"]
+	path = aim-timer-web
+	url = git@github.com:baifachuan/aim-timer-web.git
